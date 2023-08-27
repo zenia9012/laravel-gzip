@@ -1,5 +1,5 @@
 {
-    "name": "erlandmuchasaj/laravel-gzip",
+    "name": "zenia9012/laravel-gzip",
     "type": "library",
     "description": "Gzip your responses.",
     "minimum-stability": "dev",
